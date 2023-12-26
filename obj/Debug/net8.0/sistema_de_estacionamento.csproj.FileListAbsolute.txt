@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\bin\Debug\net8.0\sistema_de_estacionamento.exe
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\bin\Debug\net8.0\sistema_de_estacionamento.deps.json
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\bin\Debug\net8.0\sistema_de_estacionamento.runtimeconfig.json
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\bin\Debug\net8.0\sistema_de_estacionamento.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\bin\Debug\net8.0\sistema_de_estacionamento.pdb
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\refint\sistema_de_estacionamento.dll
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.pdb
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\sistema_de_estacionamento.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\projetos_back\sistema_de_estacionamento\obj\Debug\net8.0\ref\sistema_de_estacionamento.dll
